@@ -1,4 +1,3 @@
-baseurl = "https://claytonjy.github.io"
 DefaultContentLanguage = "en"
 title = "clayton's lil bloggo"
 theme = "beautifulhugo"
