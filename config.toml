@@ -1,3 +1,4 @@
+baseURL = "https://www.claytonjy.com"
 DefaultContentLanguage = "en"
 title = "clayton's lil bloggo"
 theme = "beautifulhugo"
